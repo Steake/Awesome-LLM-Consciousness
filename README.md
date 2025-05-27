@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/OpenCausaLab/Awesome-LLM-Consciousness)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-bl)
-![GitHub Repo stars](https://img.shields.io/github/stars/OpenCausaLab/Awesome-LLM-Consciousness?style=social)
+
 
 
 This repo is organized according to our survey: 
