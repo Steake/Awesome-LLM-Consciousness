@@ -49,7 +49,7 @@ This repo is organized according to our survey:
    *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, Rufin VanRullen.* [[paper](https://arxiv.org/abs/2308.08708)], arXiv 2023
 
 4. **A case for ai consciousness: Language agents and global workspace theory**.  
-   *Simon Goldstein, Cameron Domenico Kirk-Giannini.* [[paper](https://arxiv.org/abs/2412.04571)], arXiv 2024
+   *Simon Goldstein, Cameron Domenico Kirk-Giannini.* [[paper](https://arxiv.org/abs/2410.11407)], arXiv 2024
   
 5. **From imitation to introspection: Probing self-consciousness in language models**.  
    *Sirui Chen, Shu Yu, Shengjie Zhao, Chaochao Lu.* [[paper](https://arxiv.org/abs/2410.18819)], ACL 2025 Findings
@@ -64,7 +64,7 @@ This repo is organized according to our survey:
 
 
 3. **A Causal Analysis of Harm**.  
-   *Sander Beckers, Hana Chockler, Joseph Halpern.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ebcf1bff7b2fe6dcc3fbe666faaa50f1-Abstract-Conference.html)], NeurIPS 2022
+   *Sander Beckers, Hana Chockler, Joseph Halpern.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/100c1f131893d3b4b34bb8db49bef79f-Abstract-Conference.html)], NeurIPS 2022
 
 4. **Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems**.  
    *David Dalrymple, Joar Skalse, Yoshua Bengio, Stuart Russell, Max Tegmark, Sanjit Seshia, Steve Omohundro, Christian Szegedy, Ben Goldhaber, Nora Ammann, Alessandro Abate, Joe Halpern, Clark Barrett, Ding Zhao, Tan Zhi-Xuan, Jeannette Wing, Joshua Tenenbaum.* [[paper](https://arxiv.org/abs/2405.06624)], arXiv 2024
@@ -144,7 +144,7 @@ This repo is organized according to our survey:
 * **Alignment**:
 
 1. **Minding Language Models’ (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker**.  
-   *Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi, Yulia Tsvetkov.* [[paper](hhttps://aclanthology.org/2023.acl-long.780/)], ACL 2023
+   *Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi, Yulia Tsvetkov.* [[paper](https://aclanthology.org/2023.acl-long.780/)], ACL 2023
 
 2. **Language Models Represent Beliefs of Self and Others**.  
    *Wentao Zhu, Zhining Zhang, Yizhou Wang.* [[paper](https://openreview.net/forum?id=asJTE8EBjg)], ICML 2024
@@ -250,7 +250,7 @@ This repo is organized according to our survey:
    *Mihir Parmar, Xin Liu, Palash Goyal, Yanfei Chen, Long Le, Swaroop Mishra, Hossein Mobahi, Jindong Gu, Zifeng Wang, Hootan Nakhost, Chitta Baral, Chen-Yu Lee, Tomas Pfister, Hamid Palangi.* [[paper](https://arxiv.org/abs/2502.16111)], arXiv 2025
 
 2. **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**.  
-   *Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen, Ningyu Zhang.* [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645481)], NAACL 2025 Findings
+   *Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen, Ningyu Zhang.* [[paper](https://aclanthology.org/2025.findings-naacl.205/)], NAACL 2025 Findings
 
 3. **Planning in the Dark: LLM-Symbolic Planning Pipeline Without Experts**.  
    *Sukai Huang, Nir Lipovetzky, Trevor Cohn.* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34855)], AAAI 2025
@@ -265,7 +265,7 @@ This repo is organized according to our survey:
 * **Evaluation**: 
 
 1. **A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing**.  
-   *Carlos Gómez-Rodríguez, Paul Williams.* [[paper](hhttps://aclanthology.org/2023.findings-emnlp.966/)], EMNLP 2023 Findings
+   *Carlos Gómez-Rodríguez, Paul Williams.* [[paper](https://aclanthology.org/2023.findings-emnlp.966/)], EMNLP 2023 Findings
 
 2. **LiveIdeaBench: Evaluating LLMs’ Divergent Thinking for Scientific Idea Generation with Minimal Context**.  
    *Kai Ruan, Xuan Wang, Jixiang Hong, Peng Wang, Yang Liu, Hao Sun.* [[paper](https://arxiv.org/abs/2412.17596)], arXiv 2024
@@ -379,7 +379,7 @@ This repo is organized according to our survey:
 * **Mitigation**:
 
 1. **Hidden in Plain Text: Emergence & Mitigation of Steganographic Collusion in LLMs**.  
-   *Yohan Mathew, Ollie Matthews, Robert McCarthy, Joan Velja, Christian Schroeder de Witt, Dylan Cope, Nandi Schoots.* [[paper](https://openreview.net/forum?id=TBOKAvOiIy)], NeurIPS Workshop on Safe Generative AI 2024 
+   *Yohan Mathew, Ollie Matthews, Robert McCarthy, Joan Velja, Christian Schroeder de Witt, Dylan Cope, Nandi Schoots.* [[paper](https://openreview.net/forum?id=EIlXcRQKxo)], NeurIPS Workshop on Safe Generative AI 2024 
 
 ## 🖇️ Citation
 
