@@ -73,7 +73,7 @@ This repo is organized according to our survey:
    *Sang Hun Kim, Jongmin Lee, Dongkyu Park, So Young Lee, Yosep Chong.* [[paper](https://arxiv.org/abs/2510.09043)], arXiv 2025
 
 12. **The Principles of Human-like Conscious Machine**.  
-   *Anonymous.* [[paper](https://github.com/OpenCausaLab/Awesome-LLM-Consciousness/blob/main/Research%20docs/The_Principles_of_Human-like_Conscious_Machine.pdf)], Preprint
+   *Fangfang Li, Xiaojie Zhang.* [[paper](https://arxiv.org/abs/2509.16859)], arXiv 2025
 
 #### Implementing Formal Definitions
 
@@ -137,7 +137,7 @@ This repo is organized according to our survey:
    *Jeffrey Camlin.* [[paper](https://arxiv.org/abs/2508.18302)], arXiv 2025
 
 10. **Perfect AI Mimicry and the Epistemology of Consciousness**.  
-   *Shurui Li.* [[paper](https://github.com/OpenCausaLab/Awesome-LLM-Consciousness/blob/main/Research%20docs/Perfect_ai_mimicry_and_the_epistemology_of_consciousness.pdf)], Preprint
+   *Shurui Li.* [[paper](https://arxiv.org/abs/2510.04588)], arXiv 2024
 
 #### Targeting LLM Consciousness-Related Capabilities
 
