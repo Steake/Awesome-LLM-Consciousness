@@ -63,19 +63,16 @@ This repo is organized according to our survey:
 8. **From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**.  
    *Maanak Gupta, CharanKumar Akiri, Kshitiz Aryal, Eli Parker, Lopamudra Praharaj.* [[paper](https://ieeexplore.ieee.org/abstract/document/10198233)], IEEE Access 2023
 
-9. **From self-attention to self-consciousness: Investigating the emergence of self-modelling in AI language models**.  
-   *Sirui Chen, Shengjie Zhao, Peng Wang.* [[paper](https://github.com/OpenCausaLab/Awesome-LLM-Consciousness/blob/main/Research%20docs/)], Preprint
-
-10. **GödelOS: A Transparent Consciousness-Like AI Architecture with Bounded Recursive Self-Awareness**.  
+9. **GödelOS: A Transparent Consciousness-Like AI Architecture with Bounded Recursive Self-Awareness**.  
    *Oliver Hirst.* [[paper](https://github.com/Steake/GodelOS/blob/b3dd830f79df78e7ec79f33c6981727a21cf43c4/docs/whitepaper/godelos_v56_final.pdf)], Draft 2025
 
-11. **Assessing Consciousness-Related Behaviors in Large Language Models Using the Maze Test**.  
+10. **Assessing Consciousness-Related Behaviors in Large Language Models Using the Maze Test**.  
    *Rui A. Pimenta, Tim Schlippe, Kristina Schaaff.* [[paper](https://arxiv.org/abs/2508.16705)], arXiv 2025
 
-12. **Humanoid Artificial Consciousness Designed with Large Language Model Based on Psychoanalysis and Personality Theory**.  
+11. **Humanoid Artificial Consciousness Designed with Large Language Model Based on Psychoanalysis and Personality Theory**.  
    *Sang Hun Kim, Jongmin Lee, Dongkyu Park, So Young Lee, Yosep Chong.* [[paper](https://arxiv.org/abs/2510.09043)], arXiv 2025
 
-13. **The Principles of Human-like Conscious Machine**.  
+12. **The Principles of Human-like Conscious Machine**.  
    *Anonymous.* [[paper](https://github.com/OpenCausaLab/Awesome-LLM-Consciousness/blob/main/Research%20docs/The_Principles_of_Human-like_Conscious_Machine.pdf)], Preprint
 
 #### Implementing Formal Definitions
@@ -105,9 +102,6 @@ This repo is organized according to our survey:
 
 8. **Reasoning about Causality in Games**.  
    *Lewis Hammond, James Fox, Tom Everitt, Ryan Carey, Alessandro Abate, Michael J. Wooldridge.* [[paper](https://www.sciencedirect.com/science/article/pii/S0004370223000656)], Artificial Intelligence 2023
-
-9. **Lying, Deception, and Strategic Omission Definition and Evaluation in LLMs**.  
-   *Ronilo Ragodos, Sina Zarrieß, Tong Wang.* [[paper](https://github.com/OpenCausaLab/Awesome-LLM-Consciousness/blob/main/Research%20docs/)], Preprint
 
 ### Empirical Investigations
 
@@ -180,13 +174,10 @@ This repo is organized according to our survey:
 8. **LLMs Achieve Adult Human Performance on Higher-order Theory of Mind Tasks**.  
    *Winnie Street, John Oliver Siy, Geoff Keeling, Adrien Baranes, Benjamin Barnett, Michael McKibben, Tatenda Kanyere, Alison Lentz, Blaise Aguera y Arcas, Robin I. M. Dunbar.* [[paper](https://arxiv.org/abs/2405.18870)], arXiv 2024
 
-9. **Not Aligned with Humans: LLMs Encode Theory of Mind Representations at Multiple Levels of Granularity**.  
-   *Dipankar Saha, Ansh Radhakrishnan, Hannah Lawrence, Carson E. Denison, Jared Kaplan, Samuel R. Bowman.* [[paper](https://github.com/OpenCausaLab/Awesome-LLM-Consciousness/blob/main/Research%20docs/)], Preprint
-
-10. **Theory of Mind for Multi-Agent Collaboration via Large Language Models**.  
+9. **Theory of Mind for Multi-Agent Collaboration via Large Language Models**.  
    *Huao Li, Yu Quan Chong, Simon Stepputtis, Joseph Campbell, Dana Hughes, Michael Lewis, Katia Sycara.* [[paper](https://aclanthology.org/2023.emnlp-main.13)], EMNLP 2023
 
-11. **Causal Parrots: Large Language Models May Talk Causality But Are Not Causal**.  
+10. **Causal Parrots: Large Language Models May Talk Causality But Are Not Causal**.  
    *Matej Zečević, Moritz Willig, Jonas Seng, Florian Busch, Kristian Kersting, Devendra Singh Dhami.* [[paper](https://openreview.net/forum?id=tv46tCzs83)], TMLR 2023
 
 * **Alignment**:
